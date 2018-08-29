@@ -1,0 +1,14 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/frontend/node_modules
+/server/node_modules
+
+# testing
+/frontend/coverage
+
+# production
+/frontend/build
+
+# IDE
+/vscode
